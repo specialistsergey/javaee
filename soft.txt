@@ -1,18 +1,18 @@
-ПО: 
-JDK 11.0.6+ (возможно использование версии JDK 8 - latest version!!!):
+РџРћ: 
+JDK 11.0.6+ (РІРѕР·РјРѕР¶РЅРѕ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ РІРµСЂСЃРёРё JDK 8 - latest version!!!):
 https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 
-IDE - среда разработки (рекомендуется Apache Netbeans 11.3 - Apache NetBeans 11.3 runs on the JDK LTS releases 8 and 11,13,14): 
+IDE - СЃСЂРµРґР° СЂР°Р·СЂР°Р±РѕС‚РєРё (СЂРµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ Apache Netbeans 11.3 - Apache NetBeans 11.3 runs on the JDK LTS releases 8 and 11,13,14): 
 https://netbeans.apache.org/download/index.html
 
-Сервер приложений (рекомендуется Payara Server 5.201): 
+РЎРµСЂРІРµСЂ РїСЂРёР»РѕР¶РµРЅРёР№ (СЂРµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ Payara Server 5.201): 
 https://search.maven.org/remotecontent?filepath=fish/payara/distributions/payara/5.201/payara-5.201.zip
 
-База данных (PostgreSQL 10+ (рекомендуется версия PostgreSQL 11)): 
+Р‘Р°Р·Р° РґР°РЅРЅС‹С… (PostgreSQL 10+ (СЂРµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ РІРµСЂСЃРёСЏ PostgreSQL 11)): 
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Клиент для работы с БД (DBeaver Community): 
+РљР»РёРµРЅС‚ РґР»СЏ СЂР°Р±РѕС‚С‹ СЃ Р‘Р” (DBeaver Community): 
 https://dbeaver.io/files/dbeaver-ce-latest-win32.win32.x86_64.zip
 
-Браузер (Рекомендуется Google Chrome):
+Р‘СЂР°СѓР·РµСЂ (Р РµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ Google Chrome):
 https://www.google.com/chrome/
