@@ -1,7 +1,7 @@
-1) Установка JDBC DRIVER
-Копируем драйвер postgresql-42.2.12 в каталог lib сервера приложений
+1) РЈСЃС‚Р°РЅРѕРІРєР° JDBC DRIVER
+РљРѕРїРёСЂСѓРµРј РґСЂР°Р№РІРµСЂ postgresql-42.2.12 РІ РєР°С‚Р°Р»РѕРі lib СЃРµСЂРІРµСЂР° РїСЂРёР»РѕР¶РµРЅРёР№
 
-2) Создание JDBC ресурсов - испольуем asadmin  (консоль сервера)
+2) РЎРѕР·РґР°РЅРёРµ JDBC СЂРµСЃСѓСЂСЃРѕРІ - РёСЃРїРѕР»СЊСѓРµРј asadmin  (РєРѕРЅСЃРѕР»СЊ СЃРµСЂРІРµСЂР°)
 -- create pool  
 create-jdbc-connection-pool --datasourceclassname org.postgresql.ds.PGSimpleDataSource --restype javax.sql.DataSource --property user=postgres:password=postgres:DatabaseName=postgres:ServerName=localhost:port=5432 TestPool
 
